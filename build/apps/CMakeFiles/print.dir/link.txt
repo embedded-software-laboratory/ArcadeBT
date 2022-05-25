@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/print.dir/print.cpp.o  -o print  -Wl,-rpath,/home/henn/local/lib ../src/libarcade.a /home/henn/local/lib/libz3.so.4.8.15.0 -lglog 

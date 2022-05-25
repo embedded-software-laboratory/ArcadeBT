@@ -1,0 +1,5 @@
+if(EXISTS "/home/henn/dev/ArcadeBT/build/test/arcade_test[1]_tests.cmake")
+  include("/home/henn/dev/ArcadeBT/build/test/arcade_test[1]_tests.cmake")
+else()
+  add_test(arcade_test_NOT_BUILT arcade_test_NOT_BUILT)
+endif()

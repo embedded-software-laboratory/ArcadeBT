@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/henn/dev/ArcadeBT/apps/bt.h
+
+/home/henn/dev/ArcadeBT/apps/c_demo.c
+stdio.h
+-
+bt.h
+/home/henn/dev/ArcadeBT/apps/bt.h
+

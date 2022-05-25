@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/arcade_test.dir/ir/expression_test.cpp.o CMakeFiles/arcade_test.dir/examples_test.cpp.o  -o arcade_test  -Wl,-rpath,/home/henn/local/lib /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a ../src/libarcade.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread /home/henn/local/lib/libz3.so.4.8.15.0 -lglog 

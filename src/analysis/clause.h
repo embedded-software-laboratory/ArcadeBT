@@ -1,0 +1,4 @@
+#ifndef ANALYSIS_CLAUSE
+#define ANALYSIS_CLAUSE
+
+#endif // ANALYSIS_CLAUSE
